@@ -60,12 +60,12 @@ const Hero = () => {
 
   const one = <h1></h1>;
   const two = <h2 className="big-heading">Eno Leriand.</h2>;
-  const three = <h3 className="big-heading">Penetration Tester</h3>;
+  const three = <h3 className="big-heading">Infosec</h3>;
   const four = (
     <p>
-      Saya seorang peretas jalanan yang berbasis di Indonesia yang berspesialisasi dalam membangun
-      pengalaman digital yang luar biasa. Saat ini, saya memiliki tim di {''}
-      <a href="https://linuxhackingid.org/"> Linux Hacking Indonesia </a> berfokus pada sistem keamanan jaringan atau aplikasi web.
+      I'm an Indonesia-based street hacker who specializes in building
+      great digital experience. Currently, I have a team at{''}
+      <a href="https://itsec.ac.id"> ITSEC </a> focuses on network security systems or web applications.
     </p>
   );
   const five = (
