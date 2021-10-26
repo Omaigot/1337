@@ -135,13 +135,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Nama saya Eno Leriand dan saya senang membuat hal-hal yang hidup di internet.
-              Ketertarikan saya dalam pemrograman web dimulai pada tahun 2019 ketika saya memutuskan untuk mencoba pengeditan
-              Tema - ternyata mengedit tombol reblog mengajari saya banyak hal
-              tentang HTML & amp; CSS!
+              My name is Eno Leriand and I love making things live on the internet.
+              My interest in web programming started in 2019 when I decided to give it a try
+              Theme - apparently the reblog button taught me a lot
+              about HTML & amp; CSS!
             </p>
 
-            <p>Berikut adalah beberapa teknologi yang telah saya kerjakan baru-baru ini:</p>
+            <p>Here are some technologies I've been working on recently:</p>
           </div>
 
           <ul className="skills-list">
