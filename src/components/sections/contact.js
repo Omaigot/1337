@@ -58,8 +58,8 @@ const Contact = () => {
       <h2>Get In Touch</h2>      
 
       <p>
-        Meskipun saya tidak sedang mencari peluang baru, kotak masuk saya selalu terbuka.
-        Apakah Anda memiliki pertanyaan atau hanya ingin menyapa, saya akan mencoba yang terbaik untuk menghubungi Anda kembali!
+        Even though I'm not looking for new opportunities, my inbox is always open.
+        Whether you have any questions or just want to say hello, I'll try my best to get back to you!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
